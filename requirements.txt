@@ -2,3 +2,4 @@ google-genai
 streamlit
 twilio
 requests
+python-telegram-bot
